@@ -4,7 +4,8 @@
 - 용인대학교 컴퓨터과학과 졸업작품 발표 프로젝트
   - 4인 1조로 팀을 구성해 Front-End 1명, Back-End 2명, Front-End & Back-End 1명으로 진행
 - 원하는 스터디를 생성 or 참여하는 사이트
-  - 주제, 지역 선택을 통해 자신이 원하는 스터디 그룹 참여
+  - 주제, 지역 선택을 통해 자신이 원하는 스터디 그룹 참여 <br>
+![intro](https://user-images.githubusercontent.com/59366717/107316346-c5921780-6adb-11eb-9049-1fec850013bd.jpg)
   
 ## 사용 기술
 ### Back-End
@@ -21,7 +22,9 @@
 
 ### Tools
 - Eclipse IDE
-- Git
+- Git <br>
+
+![tool](https://user-images.githubusercontent.com/59366717/107316402-e0648c00-6adb-11eb-8f83-7a4e82a8cdb2.jpg)
 
 ### 영상
 > [영상 바로가기](https://youtu.be/Xma8l9yGxw4)
